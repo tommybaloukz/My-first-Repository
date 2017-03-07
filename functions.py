@@ -1,1 +1,1 @@
-print("Hello, this is going to be the functions doc")
+# This will be the main functions for the project
